@@ -1,0 +1,11 @@
+VM-Options：
+-Dcatalina.home=C:/dev-workspace/tomcat/catalina-home
+-Dcatalina.base=catalina-home
+-Djava.endorsed.dirs=catalina-home/endorsed
+-Djava.io.tmpdir=catalina-home/temp
+-Djava.util.logging.config.file=catalina-home/conf/logging.properties
+-Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+
+
+reference：
+https://blog.csdn.net/yekong1225/article/details/81000446
