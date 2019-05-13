@@ -1,3 +1,6 @@
+start:
+org.apache.catalina.startup.Bootstrap.main
+
 VM-Options：
 -Dcatalina.home=C:/dev-workspace/tomcat/catalina-home
 -Dcatalina.base=catalina-home
